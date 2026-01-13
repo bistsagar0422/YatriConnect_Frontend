@@ -1,0 +1,1 @@
+# Navigate app initialization

@@ -114,12 +114,12 @@ export function LiveNavigation({ onTriggerCrash }: LiveNavigationProps = {}) {
 
       // Add a route path (example route)
       const routeCoordinates = [
-        [28.6139, 77.2090],
-        [28.6145, 77.2100],
-        [28.6155, 77.2115],
-        [28.6165, 77.2130],
-        [28.6175, 77.2145],
-        [28.6185, 77.2160]
+        [27.70595, 85.31596],
+        [27.70462, 85.31680],
+        [27.70180, 85.31702],
+        [27.70338, 85.31810],
+        [27.70600, 85.31810],
+        [27.70600, 85.31190]
       ];
 
       const polyline = L.polyline(routeCoordinates, {
